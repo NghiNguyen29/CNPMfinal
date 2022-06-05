@@ -87,7 +87,7 @@
 						<select name="category" required class="form-control" id="category-u">
 						</select>
 					</div>
-					<img src="../images/sasuke.png" class="mb-2 thumbnail" id="image-u">
+					<img src="../images/user.png" class="mb-2 thumbnail" id="image-u">
 					<input  value="" name="image"  type="hidden" id="image-post">
 					<input  value="" name="id-news"  type="hidden" id="id-news-post">
 					<div class="form-group">
@@ -122,7 +122,7 @@
 						<b id="title-view"></b>
 					</div>
 					<div class="form-group">
-						<img src="../images/sasuke.png" class="thumbnail" id="image">
+						<img src="../images/user.png" class="thumbnail" id="image">
 					</div>
 					<div class="form-group">
 						<b>Nội dung</b>
